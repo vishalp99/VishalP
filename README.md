@@ -52,3 +52,8 @@
 `VS Code` · `MS Office 365`
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" />
+</p>
