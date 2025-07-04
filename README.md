@@ -1,12 +1,15 @@
 <!-- GitHub Profile README for Vishal Patel -->
 
-<h1 align="center">Hey 👋, I'm Vishal Patel</h1>
+<h1 align="center">👋 Hey there, I'm Vishal Patel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=AI+ML+Student+%7C+Cybersecurity+%7C+Software+Developer" alt="Typing SVG" />
+  <strong>AI/ML Student • Cybersecurity Enthusiast • Software Developer</strong><br>
+  Passionate about building secure systems, learning new tech, and solving real-world problems.
 </p>
 
----
+<p align="center">
+  🌐 <a href="https://vishalpatel.github.io">Portfolio</a> | 💼 <a href="https://www.linkedin.com/in/vishal-patel99/">LinkedIn</a> | 📧 <a href="vishalnpatel999@gmail.com">Email Me</a>
+</p>
 
 ### 🧑‍💻 About Me
 
