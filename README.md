@@ -46,7 +46,7 @@
 `Kibana` · `LogAnalyzer` · `Elasticsearch Cloud` · `pfSense`
 
 #### 🤖 AI, ML & Data  
-`Power BI` · `AI System Architecture` · `Data Modeling` · `Model Training (Math)`
+`Power BI` · `AI System Architecture` · `Data Modeling` · `Model Training (Math)` · `Scikit-learn`
 
 #### 🖥️ Platforms & Tools  
 `VS Code` · `MS Office 365`
