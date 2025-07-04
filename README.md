@@ -8,7 +8,7 @@
 
 ---
 <p align="center">
-  🌐 <a href="https://vishalpatel.github.io">Portfolio</a> | 💼 <a href="https://www.linkedin.com/in/vishal-patel99/">LinkedIn</a>
+  🌐 <a href="https://vishalp99.github.io/vishalpatel/">Portfolio</a> | 💼 <a href="https://www.linkedin.com/in/vishal-patel99/">LinkedIn</a>
 </p>
 
 ### 🧑‍💻 About Me
