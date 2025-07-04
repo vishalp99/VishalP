@@ -1,12 +1,12 @@
 <!-- GitHub Profile README for Vishal Patel -->
-
-<h1 align="center">👋 Hey there, I'm Vishal Patel</h1>
+<h1 align="center">🚀 Vishal Patel</h1>
 
 <p align="center">
-  <strong>AI/ML Student • Cybersecurity Enthusiast • Software Developer</strong><br>
-  Passionate about building secure systems, learning new tech, and solving real-world problems.
+  🎓 <strong>AI/ML + Cybersecurity Student</strong> • 💻 <strong>Ex-Software Developer</strong> • 🔍 <strong>Security Enthusiast</strong><br>
+  From building scalable apps to defending them — I love both sides of tech!
 </p>
 
+---
 <p align="center">
   🌐 <a href="https://vishalpatel.github.io">Portfolio</a> | 💼 <a href="https://www.linkedin.com/in/vishal-patel99/">LinkedIn</a> | 📧 <a href="vishalnpatel999@gmail.com">Email Me</a>
 </p>
